@@ -6,11 +6,9 @@
 Hello! I just graduated 🎓  from UC Irvine🏫  majoring in Computer Science💻 . 
 
 - 😄 &nbsp; Personal Website: [https://kayleedeng.com](https://kayleedeng.com)
-- 🌉 &nbsp; I am based in San Francisco, currently working on leetcode🌱 .
+- 🌉 &nbsp; I am based in San Francisco, currently working as a Software Engineer🌱 .
 - 💻 &nbsp; I started coding since High School, and participated in events like Oracle Conference, Developer Weeks, and Hackathons. 
 
-
-- 🔭 &nbsp; I am looking for my first job as a Software Engineer! 
 
 <p align="center" >
 <a href="https://kayleedeng.com/">
